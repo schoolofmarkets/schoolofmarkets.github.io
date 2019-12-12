@@ -36,7 +36,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: <strong>Cloud based 24/7 learning<span class="light"><br></span></strong><span
-    class="light">The course would always be with you on your Mobile!</span>
+    class="light">Carry the course everywhere on your Mobile.</span>
   content: You can view the entire course for unlimited number of times, through your
     mobile. Yes, you read it right. No Strings Attached!<br>But, why are we doing
     this?<br>Because, we're all about affordable education, and making College students
