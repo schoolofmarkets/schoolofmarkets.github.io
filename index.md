@@ -20,7 +20,7 @@ page_sections:
   block: hero-2
   headline: Trading &amp; Investing <br><strong>For Students</strong>
   content: Ever seen those Ads that show "Ambani" kind of returns in a day?<br>If
-    that was possible, why don't they trade themselves instead of showing you ads?<br>Learn
+    that was possible, why don't they trade themselves instead of showing you ads?<br><br><br><br><br><br><br>Learn
     from scratch &amp; Trade right.
   cta:
     enabled: true
