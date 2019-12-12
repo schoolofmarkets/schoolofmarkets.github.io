@@ -63,8 +63,8 @@ page_sections:
     alt_text: Stock ticker
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
+  image: "/uploads/2019/12/12/Add a heading-5.png"
+  caption: School of markets
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
