@@ -15,7 +15,7 @@ page_sections:
     button_text: Learn More
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    alt_text: School of Markets
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: navigation-header-w-button
   block: header-2
