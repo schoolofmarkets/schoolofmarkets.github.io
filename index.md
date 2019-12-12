@@ -37,10 +37,10 @@ page_sections:
   media_alignment: Left
   headline: <strong>Cloud based 24/7 learning<span class="light"><br></span></strong><span
     class="light">Carry the course everywhere on your Mobile.</span>
-  content: You can view the entire course for unlimited number of times, through your
-    mobile. Yes, you read it right. No Strings Attached!<br>But, why are we doing
-    this?<br>Because, we're all about affordable education, and making College students
-    Financially Independent is our Motto of the year 2020!
+  content: 'You can view the entire course for unlimited number of times, through
+    your mobile.<br><span style="text-decoration: underline;">Yes, you read it right.
+    No Strings Attached!</span><br><br><em>We''re all about affordable education,
+    and making College students Financially Independent is our Motto of the year 2020!</em>'
   media:
     image: "/uploads/2019/12/12/Trade & Invest from the Right Age-4.png"
     alt_text: Learn on the go
