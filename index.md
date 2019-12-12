@@ -3,6 +3,20 @@ layout: blocks
 title: Homepage
 date: 
 page_sections:
+- template: hero-banner-w-image
+  block: hero-2
+  headline: Trading &amp; Investing <br><strong>For Students</strong>
+  content: There are plenty of Binary Option Ads that show Ambani kind of returns
+    in a day. If that was possible, why don't they trade themselves instead of showing
+    you ads?<br>Start trading right, and learn from scratch from a Trusted Start-Up!
+  cta:
+    enabled: true
+    url: https://github.com/forestryio/ubuild-jekyll
+    button_text: Learn More
+  image:
+    image: "/uploads/2019/12/12/Trade & Invest from the Right Age.png"
+    alt_text: School of Markets
+  background_image: ''
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2019/12/12/Your paragraph text.png"
@@ -18,27 +32,15 @@ page_sections:
   cta:
     url: www.razorpay.com
     button_text: Download
-- template: hero-banner-w-image
-  block: hero-2
-  headline: Trading &amp; Investing <br><strong>For Students</strong>
-  content: There are plenty of Binary Option Ads that show Ambani kind of returns
-    in a day. If that was possible, why don't they trade themselves instead of showing
-    you ads?<br>Start trading right, and learn from scratch from a Trusted Start-Up!
-  cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: Learn More
-  image:
-    image: "/uploads/2019/12/12/Trade & Invest from the Right Age.png"
-    alt_text: School of Markets
-  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: <strong>Complete learning on the Cloud<span class="light"><br></span></strong><span
+    class="light">The course would be on your Mobile!</span>
+  content: You can view the entire course for unlimited number of times, through your
+    mobile. Yes, you read it right. No Strings Attached!<br>But, why are we doing
+    this?<br>Because, we're all about affordable education, and making College students
+    Financially Independent is our Motto of the year 2020!
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
