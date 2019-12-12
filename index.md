@@ -64,7 +64,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/12/12/Add a heading-6.png"
-  caption: School of markets
+  caption: ''
 - template: detail-content
   block: text-1
   headline: How does it work?
