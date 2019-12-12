@@ -18,7 +18,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2019/12/12/Your paragraph text.png"
   navigation:
   - link: "/"
     link_text: Home
@@ -26,10 +26,10 @@ page_sections:
     link_text: Features
   - link: "#pricing"
     link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  - link: "#aboutus"
+    link_text: About Us
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: www.razorpay.com
     button_text: Download
 - template: content-feature
   block: feature-1
