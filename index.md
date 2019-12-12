@@ -14,7 +14,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Learn More
   image:
-    image: "/uploads/2019/12/12/Trade & Invest from the Right Age.png"
+    image: ''
     alt_text: School of Markets
   background_image: ''
 - template: navigation-header-w-button
