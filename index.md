@@ -19,7 +19,7 @@ page_sections:
   background_image: ''
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2019/12/12/Your paragraph text-3.png"
+  logo: "/uploads/2019/12/12/Add a heading-2.png"
   navigation:
   - link: "/"
     link_text: Home
