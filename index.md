@@ -53,8 +53,11 @@ page_sections:
   media_alignment: Right
   headline: <strong>You'd Learn</strong><span class="light"> how the market works,
     how prices move.</span>
-  content: You'd learn to analyse stocks/crypto/forex and forecast price movements.<br>You'd
-    learn to spot new trends before anyone, and make consistent profits.
+  content: "<strong>You'd learn to analyse stocks/crypto/forex and forecast price
+    movements.</strong><br><strong>You'd learn to spot new trends before anyone, and
+    make consistent profits.<br>The most important of all, you will learn how not
+    to lose money. Because over 95% traders lose money for lack of knowledge. With
+    us, you will be in the 5% always!</strong>"
   media:
     image: "/uploads/2019/12/12/live ticker for college website-1.gif"
     alt_text: Stock ticker
