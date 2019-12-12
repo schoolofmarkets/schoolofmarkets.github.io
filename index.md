@@ -3,6 +3,19 @@ layout: blocks
 title: Home
 date: 
 page_sections:
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/2019/12/12/Add a heading-3.png"
+  navigation:
+  - link: "/"
+    link_text: Home
+  - link: "#features"
+    link_text: Features
+  - link: "#pricing"
+    link_text: Pricing
+  cta:
+    url: www.razorpay.com
+    button_text: Download
 - template: hero-banner-w-image
   block: hero-2
   headline: Trading &amp; Investing <br><strong>For Students</strong>
@@ -17,19 +30,6 @@ page_sections:
     image: "/uploads/2019/12/12/Trade & Invest from the Right Age.png"
     alt_text: School of Markets
   background_image: ''
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2019/12/12/Add a heading-3.png"
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  cta:
-    url: www.razorpay.com
-    button_text: Download
 - template: content-feature
   block: feature-1
   media_alignment: Left
