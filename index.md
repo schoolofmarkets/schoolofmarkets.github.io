@@ -6,8 +6,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Trading &amp; Investing <br><strong>For Students</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: There are plenty of Binary Option Ads that show beggar to Ambani returns
+    in a day. If that was possible, why don't they trade themselves instead of showing
+    you ads?<br>Start trading right, and learn from scratch from a Trusted Start-Up!
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
