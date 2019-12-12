@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: Trading &amp; Investing <br><strong>For Students</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
