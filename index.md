@@ -5,20 +5,21 @@ date:
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Trading &amp; Investing <br><strong>For Students</strong>
+  content: There are plenty of Binary Option Ads that show Ambani kind of returns
+    in a day. If that was possible, why don't they trade themselves instead of showing
+    you ads?<br>Start trading right, and learn from scratch from a Trusted Start-Up!
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: Learn More
   image:
     image: "/uploads/2019/12/12/Trade & Invest from the Right Age.png"
     alt_text: School of Markets
-  background_image: "/uploads/2019/12/12/Trade & Invest from the Right Age.png"
+  background_image: ''
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2019/12/12/Your paragraph text.png"
   navigation:
   - link: "/"
     link_text: Home
@@ -26,10 +27,10 @@ page_sections:
     link_text: Features
   - link: "#pricing"
     link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  - link: "#aboutus"
+    link_text: About Us
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: www.razorpay.com
     button_text: Download
 - template: content-feature
   block: feature-1
