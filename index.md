@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Trading &amp; Investing <br><strong>For Students</strong>
-  content: There are plenty of Binary Option Ads that show beggar to Ambani returns
+  content: There are plenty of Binary Option Ads that show Ambani kind of returns
     in a day. If that was possible, why don't they trade themselves instead of showing
     you ads?<br>Start trading right, and learn from scratch from a Trusted Start-Up!
   cta:
