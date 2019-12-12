@@ -18,7 +18,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: Trading &amp; Investing <br><strong>For Students</strong>
+  headline: "<em>Trading &amp; Investing</em><br><strong>For Students</strong>"
   content: 'Ever seen those Ads that show "Ambani" kind of returns in a day?<br><br><span
     style="text-decoration: underline;">If that was possible, why don''t they trade
     themselves instead of showing you ads?<br></span><br><br><strong>Learn from scratch
