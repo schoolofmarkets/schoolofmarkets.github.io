@@ -44,10 +44,12 @@ page_sections:
     alt_text: Learn on the go
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  headline: Complete Structured Course that fits every pocket
+  content: When it comes to a course that isn't live in person, people generally feel
+    they'd not be able to get their doubts clarified. So, we did a completely structured
+    course which would make sure no doubts ever come in the minds of the student,
+    and if you ever have any doubt, you can get it cleared over call/text/TeamViewer
+    anytime, all-time!
 - template: content-feature
   block: feature-1
   media_alignment: Right
