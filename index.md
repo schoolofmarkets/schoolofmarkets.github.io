@@ -51,10 +51,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: <strong>You'd Learn</strong><span class="light"> how the market works,
+    how prices move.</span>
+  content: You'd learn to analyse stocks/crypto/forex and forecast price movements.<br>You'd
+    learn to spot new trends before anyone, and make consistent profits.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
