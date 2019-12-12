@@ -44,11 +44,9 @@ page_sections:
     alt_text: Learn on the go
 - template: 1-column-text
   block: one-column-1
-  headline: Complete Structured Course that fits every pocket
-  content: When it comes to a course that isn't live in person, people generally feel
-    they'd not be able to get their doubts clarified. So, we did a completely structured
-    course which would make sure no doubts ever come in the minds of the student,
-    and if you ever have any doubt, you can get it cleared over call/text/TeamViewer
+  headline: How do I clear my Doubts?
+  content: We did a completely structured course which would make sure no doubts come
+    up. Despite that, if you ever have any doubt, you can get it cleared over call/text/TeamViewer
     anytime, all-time!
 - template: content-feature
   block: feature-1
