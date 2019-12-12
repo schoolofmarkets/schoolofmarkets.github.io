@@ -16,7 +16,7 @@ page_sections:
   image:
     image: "/uploads/2019/12/12/Trade & Invest from the Right Age.png"
     alt_text: School of Markets
-  background_image: ''
+  background_image: "/uploads/2019/12/12/Trade & Invest from the Right Age.png"
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2019/12/12/Your paragraph text.png"
