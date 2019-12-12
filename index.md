@@ -35,7 +35,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Complete learning on the Cloud<span class="light"><br></span></strong><span
+  headline: <strong>Cloud based 24/7 learning<span class="light"><br></span></strong><span
     class="light">The course would be on your Mobile!</span>
   content: You can view the entire course for unlimited number of times, through your
     mobile. Yes, you read it right. No Strings Attached!<br>But, why are we doing
