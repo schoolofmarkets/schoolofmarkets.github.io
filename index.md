@@ -56,7 +56,7 @@ page_sections:
   content: You'd learn to analyse stocks/crypto/forex and forecast price movements.<br>You'd
     learn to spot new trends before anyone, and make consistent profits.
   media:
-    image: "/uploads/2019/12/12/live ticker for college website.gif"
+    image: "/uploads/2019/12/12/live ticker for college website-1.gif"
     alt_text: Stock ticker
 - template: full-width-media-element
   block: media-1
