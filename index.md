@@ -42,8 +42,8 @@ page_sections:
     this?<br>Because, we're all about affordable education, and making College students
     Financially Independent is our Motto of the year 2020!
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2019/12/12/Trade & Invest from the Right Age-2.png"
+    alt_text: Learn on the go
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
