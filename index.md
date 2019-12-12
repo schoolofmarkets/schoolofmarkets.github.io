@@ -15,7 +15,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2018/06/21/drone-photo.jpeg"
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2019/12/12/Your paragraph text.png"
