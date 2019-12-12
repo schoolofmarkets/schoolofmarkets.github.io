@@ -27,8 +27,6 @@ page_sections:
     link_text: Features
   - link: "#pricing"
     link_text: Pricing
-  - link: "#aboutus"
-    link_text: About Us
   cta:
     url: www.razorpay.com
     button_text: Download
