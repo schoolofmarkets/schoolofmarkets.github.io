@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Home
 date: 
 page_sections:
 - template: hero-banner-w-image
