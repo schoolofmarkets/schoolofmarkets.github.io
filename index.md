@@ -15,7 +15,7 @@ page_sections:
     link_text: Pricing
   cta:
     url: https://rzp.io/l/trading101
-    button_text: Get the Course!
+    button_text: Buy
 - template: hero-banner-w-image
   block: hero-2
   headline: "<em>Trading &amp; Investing</em><br><strong>For Students</strong>"
@@ -65,7 +65,6 @@ page_sections:
   block: media-1
   image: "/uploads/2019/12/12/Add a heading-6.png"
   caption: ''
-#pricing
 - template: hero-banner-w-image
   block: hero-3
   headline: Sounds good. But, What's the Price?<br><strong>₹ 999!</strong>
