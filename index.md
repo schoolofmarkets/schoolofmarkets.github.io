@@ -68,7 +68,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: How does it work?
-  content: "<p>You select the course of your choice</p><ol><li><p>Click on the Buy
+  content: "<ol><li><p>Click on the Buy
     Now</p></li><li><p>Enter your E-Mail address</p></li><li><p>You'll get the course
     on your Google Drive within 12 Hours</p></li><li><p>You will be added as a member
     to our Forum</p></li></ol>"
