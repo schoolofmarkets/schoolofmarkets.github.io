@@ -79,11 +79,11 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-- template: detail-content
-  block: text-1
-  headline: ''
-  content: <h1><em>If you're still having any doubts, feel free to WhatsApp us </em><a
-    href="https://wa.me/919080673240" title="WhatsApp"><em>here</em></a></h1>
+- template: 1-column-text
+  block: one-column-1
+  headline: Further Queries?
+  content: <a href="https://wa.me/919080673240" title="WhatsApp">Click here to reach
+    to us on WhatsApp</a>
 - template: simple-footer
   block: footer-1
   content: Made with love in India ❤︎
