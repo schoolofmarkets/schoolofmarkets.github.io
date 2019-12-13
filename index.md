@@ -14,8 +14,8 @@ page_sections:
   - link: "#pricing"
     link_text: Pricing
   cta:
-    url: www.razorpay.com
-    button_text: Download
+    url: https://rzp.io/l/trading101
+    button_text: Get the Course!
 - template: hero-banner-w-image
   block: hero-2
   headline: "<em>Trading &amp; Investing</em><br><strong>For Students</strong>"
