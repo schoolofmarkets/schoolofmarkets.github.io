@@ -84,8 +84,9 @@ page_sections:
   headline: How does it work?
   content: <ol><li><p>Click on the Buy Now</p></li><li><p>Enter your E-Mail address</p></li><li><p>You'll
     get the course on your Google Drive within 12 Hours</p></li><li><p>You will be
-    added as a member to our Forum</p></li></ol><blockquote><p>If you're still having
-    any doubts, feel free to WhatsApp us <a href="https://wa.me/919080673240" title="WhatsApp">here</a></p></blockquote>
+    added as a member to our Forum</p></li></ol><p><strong>If you're still having
+    any doubts, feel free to WhatsApp us </strong><a href="https://wa.me/919080673240"
+    title="WhatsApp"><strong>here</strong></a></p>
 - template: simple-footer
   block: footer-1
   content: Made with love in India ❤︎
