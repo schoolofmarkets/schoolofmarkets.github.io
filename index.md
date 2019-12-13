@@ -77,8 +77,8 @@ page_sections:
     button_text: Get the Course Now!
   background_image: ''
   image:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2019/12/13/I'm gonna make you an offer you can't refuse.-2.png"
+    alt_text: An offer you cant refuse
 - template: 1-column-text
   block: one-column-1
   headline: Further Queries?
