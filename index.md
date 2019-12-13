@@ -86,8 +86,8 @@ page_sections:
     to us on WhatsApp</a>
 - template: simple-footer
   block: footer-1
-  content: Made with<span class="Apple-converted-space"> </span><span class="love">Love</span><span
-    class="Apple-converted-space"> </span>in India<strong> </strong>❤︎
+  content: <em>Made with<span class="Apple-converted-space"> </span><span class="love">Love</span><span
+    class="Apple-converted-space"> </span>for Students</em><strong> </strong>❤︎
 
 ---
 foo bar
