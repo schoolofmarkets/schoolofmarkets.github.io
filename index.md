@@ -82,11 +82,12 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: How does it work?
-  content: <h4><strong>-- Click on the Buy Now</strong></h4><h4><strong>-- Enter your
-    E-Mail address</strong></h4><h4><strong>-- You'll get the course on your Google
-    Drive within 12 Hours</strong></h4><h4><strong>-- You will be added as a member
-    to our Forum</strong></h4><h3><em>If you're still having any doubts, feel free
-    to WhatsApp us </em><a href="https://wa.me/919080673240" title="WhatsApp"><em>here</em></a></h3>
+  content: <h4><strong>-- Click on the Buy Now</strong></h4><p></p><h4><strong>--
+    Enter your E-Mail address</strong></h4><p></p><h4><strong>-- You'll get the course
+    on your Google Drive within 12 Hours</strong></h4><p></p><h4><strong>-- You will
+    be added as a member to our Forum</strong></h4><p></p><h3><em>If you're still
+    having any doubts, feel free to WhatsApp us </em><a href="https://wa.me/919080673240"
+    title="WhatsApp"><em>here</em></a></h3>
 - template: simple-footer
   block: footer-1
   content: Made with love in India ❤︎
