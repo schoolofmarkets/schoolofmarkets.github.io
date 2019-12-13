@@ -28,7 +28,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Learn More
   image:
-    image: "/uploads/2019/12/12/Trading 101.png"
+    image: "/uploads/2019/12/13/Trade & Invest from the Right Age-7.png"
     alt_text: School of Markets
   background_image: ''
 - template: content-feature
@@ -68,10 +68,9 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: How does it work?
-  content: "<ol><li><p>Click on the Buy
-    Now</p></li><li><p>Enter your E-Mail address</p></li><li><p>You'll get the course
-    on your Google Drive within 12 Hours</p></li><li><p>You will be added as a member
-    to our Forum</p></li></ol>"
+  content: "<ol><li><p>Click on the Buy Now</p></li><li><p>Enter your E-Mail address</p></li><li><p>You'll
+    get the course on your Google Drive within 12 Hours</p></li><li><p>You will be
+    added as a member to our Forum</p></li></ol>"
 - template: simple-footer
   block: footer-1
   content: Made with love in India ❤︎
