@@ -74,7 +74,7 @@ page_sections:
     to our Forum</p></li></ol>"
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Made with love in India ❤︎
 
 ---
 foo bar
