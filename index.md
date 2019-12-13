@@ -25,8 +25,8 @@ page_sections:
     &amp; Trade right.</strong>'
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: Learn More
+    url: https://rzp.io/l/trading101
+    button_text: Shut up and take my money!
   image:
     image: "/uploads/2019/12/13/Trade & Invest from the Right Age-7.png"
     alt_text: School of Markets
