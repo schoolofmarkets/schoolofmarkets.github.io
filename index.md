@@ -65,6 +65,7 @@ page_sections:
   block: media-1
   image: "/uploads/2019/12/12/Add a heading-6.png"
   caption: ''
+#pricing
 - template: hero-banner-w-image
   block: hero-2
   headline: Sounds good. But, What's the Price?<br><strong>₹ 999!</strong>
