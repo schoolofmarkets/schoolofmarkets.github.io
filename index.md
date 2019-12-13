@@ -65,6 +65,20 @@ page_sections:
   block: media-1
   image: "/uploads/2019/12/12/Add a heading-6.png"
   caption: ''
+- template: hero-banner-w-image
+  block: hero-2
+  headline: Sounds good. But, What's the Price?<br>₹ 999.
+  content: Not a penny more. Too good to believe? Here's something that would blow
+    your mind even further! We'd also give you guys exclusive content every month!
+    All for a one-time fee of ₹999!<br>Are you <strong>Still waiting</strong>?
+  cta:
+    enabled: true
+    url: https://rzp.io/l/trading101
+    button_text: Get the Course Now!
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
 - template: detail-content
   block: text-1
   headline: How does it work?
