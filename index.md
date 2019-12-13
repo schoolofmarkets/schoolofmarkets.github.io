@@ -68,13 +68,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: How does it work?
-  content: <p>You see what courses we offer </p><p>Fork the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a>
-    and import the site into <a href="https://forestry.io/">Forestry</a> (or use <a
-    href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p><ol><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
+  content: "<p>You select the course of your choice</p><ol><li><p>Click on the Buy
+    Now</p></li><li><p>Enter your E-Mail address</p></li><li><p>You'll get the course
+    on your Google Drive within 12 Hours</p></li><li><p>You will be added as a member
+    to our Forum</p></li></ol>"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
