@@ -2,11 +2,10 @@
 title: School of Markets
 author: Arvind Venkat
 email: schoolofmarkets@gmail.com
-description: ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks
-  feature. This theme provides a set of page-level components and a pre-configured
-  Forestry Blocks UI that will empower content editors to construct their own webpages.
-baseurl: "/ubuild-jekyll"
-url: ''
+description: The School of Markets presents the best learning opportunity for Students.
+  Now, make that little pocket money on your own!
+baseurl: "/schoolofmarkets.github.io"
+url: arvindvenkat.github.io/schoolofmarkets.github.io
 defaults:
 - scope:
     path: ''
