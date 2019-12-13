@@ -67,7 +67,7 @@ page_sections:
   caption: ''
 #pricing
 - template: hero-banner-w-image
-  block: hero-2
+  block: hero-3
   headline: Sounds good. But, What's the Price?<br><strong>₹ 999!</strong>
   content: Not a penny more. Too good to believe? Here's something that would blow
     your mind even further! We'd also give you guys exclusive content every month!
