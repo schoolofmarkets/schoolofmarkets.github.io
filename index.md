@@ -82,9 +82,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: How does it work?
-  content: "<ol><li><p>Click on the Buy Now</p></li><li><p>Enter your E-Mail address</p></li><li><p>You'll
+  content: <ol><li><p>Click on the Buy Now</p></li><li><p>Enter your E-Mail address</p></li><li><p>You'll
     get the course on your Google Drive within 12 Hours</p></li><li><p>You will be
-    added as a member to our Forum</p></li></ol>"
+    added as a member to our Forum</p></li></ol><blockquote><p>If you're still having
+    any doubts, feel free to WhatsApp us <a href="https://wa.me/919080673240" title="WhatsApp">here</a></p></blockquote>
 - template: simple-footer
   block: footer-1
   content: Made with love in India ❤︎
