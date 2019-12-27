@@ -5,7 +5,7 @@ email: schoolofmarkets@gmail.com
 description: The School of Markets presents the best learning opportunity for Students.
   Now, make that little pocket money on your own!
 baseurl: "/schoolofmarkets.github.io"
-url: arvindvenkat.github.io/schoolofmarkets.github.io
+url: study.schoolofmarkets.com
 defaults:
 - scope:
     path: ''
