@@ -83,8 +83,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: When does the Course Launch?
-  content: The course will be Launched, and added to your Cloud Drive on Jan 1 2020! <br><br>
-  <span style="text-decoration: underline;">P.S. You'd also get a Certificate for completing this!</span>
+  content: The course will be Launched, and added to your Cloud Drive on Jan 1 2020! <br><br><strong> P.S. You'd also get a Certificate for completing this!</strong>
 - template: 1-column-text
   block: one-column-1
   headline: Further Queries?
