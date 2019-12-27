@@ -46,7 +46,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: How do I clear my Doubts?
-  content: We did a completely structured course which would make sure no doubts come
+  content: We did a completely structured course, with quizzes too which would make sure no doubts come
     up. Despite that, if you ever have any doubt, you can get it cleared over call/text/TeamViewer
     anytime, all-time!
 - template: content-feature
@@ -79,6 +79,12 @@ page_sections:
   image:
     image: "/uploads/2019/12/13/I'm gonna make you an offer you can't refuse.-2.png"
     alt_text: An offer you cant refuse
+
+- template: 1-column-text
+  block: one-column-1
+  headline: When does the Course Launch?
+  content: The course will be Launched, and added to your Cloud Drive on Jan 1 2020! <br><br>
+  <span style="text-decoration: underline;">P.S. You'd also get a Certificate for completing this!</span>
 - template: 1-column-text
   block: one-column-1
   headline: Further Queries?
