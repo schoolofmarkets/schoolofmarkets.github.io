@@ -4,8 +4,8 @@ author: Arvind Venkat
 email: schoolofmarkets@gmail.com
 description: The School of Markets presents the best learning opportunity for Students.
   Now, make that little pocket money on your own!
-baseurl: "/schoolofmarkets.github.io"
-url: study.schoolofmarkets.com
+baseurl: ""
+url: schoolofmarkets.github.io
 defaults:
 - scope:
     path: ''
