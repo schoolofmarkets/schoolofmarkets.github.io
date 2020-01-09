@@ -1,6 +1,6 @@
 ---
- layout: blocks
-title: Home
+layout: blocks
+title: Courses
 date: 
 page_sections:
 - template: navigation-header-w-button
@@ -11,8 +11,7 @@ page_sections:
     link_text: Home
   - link: "/courses"
     link_text: Courses
-    
-cta:
+    cta:
     url: https://rzp.io/SMmcmini
     button_text: Buy
 - template: hero-banner-w-image
