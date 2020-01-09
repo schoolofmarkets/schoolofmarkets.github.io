@@ -43,7 +43,7 @@ page_sections:
   block: one-column-1
   headline: How do I clear my Doubts?
   content: We did a very detailed course, with live examples and plenty of charting, analysis and commentary which would make sure no doubts come up. Despite that, if you ever have any doubt, you can get it cleared over call/text/TeamViewer anytime, all-time! <br>
-    (Funny thing, many people actually ask if this is for an extra price... WHAT?! C'mon people! We're here just to help each other out.)
+  (Funny thing, many people actually ask if this is for an extra price... WHAT?! C'mon people! We're here just to help each other out.)
 - template: content-feature
   block: feature-1
   media_alignment: Right
