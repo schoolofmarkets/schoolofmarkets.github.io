@@ -12,7 +12,7 @@ page_sections:
   - link: "/courses"
     link_text: Courses
     
-    cta:
+cta:
     url: https://rzp.io/SMmcmini
     button_text: Buy
 - template: hero-banner-w-image
