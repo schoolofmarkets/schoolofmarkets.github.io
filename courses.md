@@ -30,7 +30,7 @@ page_sections:
   background_image: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: <strong>Learn tough stuff from anywhere<span class="light"><br></span></strong><spanclass="light"> Anyplace, anytime, always on your device!</span>
   content: 'As always,<span style="text-decoration: underline;">
     No Strings Attached!</span><br><em>We have only one motto, and that is anything
