@@ -32,8 +32,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: <strong>Learn tough stuff from anywhere<span class="light"><br></span></strong><spanclass="light"> Anyplace, anytime, always on your device!</span>
-  content: 'As always,<br><span style="text-decoration: underline;">
-    No Strings Attached!</span><br><br><em>We have only one motto, and that is anything
+  content: 'As always,<span style="text-decoration: underline;">
+    No Strings Attached!</span><br><em>We have only one motto, and that is anything
     but overcharging for Education.</em>'
   media:
     image: "/uploads/2019/12/12/Trade & Invest from the Right Age-4.png"
