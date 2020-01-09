@@ -1,8 +1,7 @@
 ---
-
 layout: blocks
-title: Courses
-date:
+title: Home
+date: 
 page_sections:
 - template: navigation-header-w-button
   block: header-2
