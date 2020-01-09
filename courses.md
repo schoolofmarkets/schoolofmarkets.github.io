@@ -12,7 +12,7 @@ page_sections:
   - link: "/courses"
     link_text: Courses
   cta:
-    url: https://rzp.io/l/TradingMasterclass
+    url: https://rzp.io/SMmcmini
     button_text: Buy
 - template: hero-banner-w-image
   block: hero-2
@@ -22,7 +22,7 @@ page_sections:
     or making your own Strategies, we got your back.
   cta:
     enabled: true
-    url: https://rzp.io/l/llmMasterclass
+    url: https://rzp.io/SMmcmini
     button_text: Sounds perfect. I'm in!
   image:
     image: "/uploads/2020/01/09/Copy of Trade & Invest from the Right Age-1.png"
@@ -31,21 +31,21 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Cloud based 24/7 learning<span class="light"><br></span></strong><span
-    class="light">Carry the course everywhere on your Mobile.</span>
-  content: 'You can view the entire course for unlimited number of times, through
-    your mobile.<br><span style="text-decoration: underline;">Yes, you read it right.
-    No Strings Attached!</span><br><br><em>We''re all about affordable education,
-    and making College students Financially Independent is our Motto of the year 2020!</em>'
+  headline: <strong>Learn tough stuff from anywhere<span class="light"><br></span></strong><span
+    class="light">Anyplace, anytime, always on your device!</span>
+  content: 'As always,<br><span style="text-decoration: underline;">
+    No Strings Attached!</span><br><br><em>We have only one motto, and that is anything
+    but overcharging for Education.</em>'
   media:
     image: "/uploads/2019/12/12/Trade & Invest from the Right Age-4.png"
     alt_text: Learn on the go
 - template: 1-column-text
   block: one-column-1
   headline: How do I clear my Doubts?
-  content: We did a completely structured course, with quizzes too which would make
-    sure no doubts come up. Despite that, if you ever have any doubt, you can get
-    it cleared over call/text/TeamViewer anytime, all-time!
+  content: We did a very detailed course, with live examples and plenty of charting, analysis and commentary
+  which would make sure no doubts come up. Despite that, if you ever have any doubt, you can get
+    it cleared over call/text/TeamViewer anytime, all-time! <br>
+    (Funny thing, people ask if this is for a price... C'mon people! We're here just to help each other out.)
 - template: content-feature
   block: feature-1
   media_alignment: Right
