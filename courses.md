@@ -45,8 +45,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>You'd Learn</strong><span class="light"> to use Indicators,
-    to craft strategies!</span>
+  headline: <strong>You'd Learn</strong><span class="light"> Price Patterns, OI, Indicators,
+    to craft strategies... and these are just a few to name!</span>
   content: "<strong>-- Know which markets to trade, and which to avoid</strong><br><br>--
     <strong>Master Derivatives and Enter the World of lightning trades<br><br>-- Make consistent profits.<br><br>Over
     95% traders lose money for lack of knowledge. <br>With us, you will be in the
