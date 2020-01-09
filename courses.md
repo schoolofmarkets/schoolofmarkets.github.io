@@ -2,7 +2,7 @@
 
 layout: blocks
 title: Courses
-date: 
+date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
