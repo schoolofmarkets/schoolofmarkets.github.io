@@ -12,6 +12,5 @@ cta:
   enabled: true
   url: "#"
   button_text: Just... ok?
-published: false
 
 ---
