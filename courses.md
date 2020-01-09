@@ -32,8 +32,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Learn tough stuff from anywhere<span class="light"><br></span></strong>
-  <spanclass="light">Anyplace, anytime, always on your device!</span>
+  headline: <strong>Learn tough stuff from anywhere<span class="light"><br></span></strong><spanclass="light"> Anyplace, anytime, always on your device!</span>
   content: 'As always,<br><span style="text-decoration: underline;">
     No Strings Attached!</span><br><br><em>We have only one motto, and that is anything
     but overcharging for Education.</em>'
