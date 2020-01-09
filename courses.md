@@ -48,9 +48,7 @@ page_sections:
   headline: <strong>You'd Learn</strong><span class="light"> Price Patterns, OI, Indicators,
     to craft strategies... and these are just a few to name!</span>
   content: "<strong>-- Know which markets to trade, and which to avoid</strong><br><br>--
-    <strong>Master Derivatives and Enter the World of lightning trades<br><br>-- Make consistent profits.<br><br>Over
-    95% traders lose money for lack of knowledge. <br>With us, you will be in the
-    5% always!</strong>"
+    <strong>Master Derivatives and Enter the World of lightning trades<br><br>-- Make consistent profits.<br><br> Psst... you also get continued learning resources delivered to you every month, no questions asked.</strong>"
   media:
     image: "/uploads/2020/01/09/indicator.gif"
     alt_text: Stock ticker
