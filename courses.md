@@ -31,8 +31,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Learn tough stuff from anywhere<span class="light"><br></span></strong><span
-    class="light">Anyplace, anytime, always on your device!</span>
+  headline: <strong>Learn tough stuff from anywhere<span class="light"><br></span></strong>
+  <spanclass="light">Anyplace, anytime, always on your device!</span>
   content: 'As always,<br><span style="text-decoration: underline;">
     No Strings Attached!</span><br><br><em>We have only one motto, and that is anything
     but overcharging for Education.</em>'
@@ -44,7 +44,7 @@ page_sections:
   headline: How do I clear my Doubts?
   content: We did a very detailed course, with live examples and plenty of charting, analysis and commentary
   which would make sure no doubts come up. Despite that, if you ever have any doubt, you can get
-    it cleared over call/text/TeamViewer anytime, all-time! <br>
+it cleared over call/text/TeamViewer anytime, all-time! <br>
     (Funny thing, many people actually ask if this is for an extra price... WHAT?! C'mon people! We're here just to help each other out.)
 - template: content-feature
   block: feature-1
