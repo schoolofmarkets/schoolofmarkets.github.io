@@ -8,13 +8,12 @@ page_sections:
   logo: "/uploads/2019/12/12/Add a heading-3.png"
   navigation:
   - link: "/"
-    link_text: Home
-  - link: "/index"
-    link_text: Courses
-cta:
-    url: https://rzp.io/l/TradingMasterclass
-    button_text: I'm in
-    
+    link_text: Trading 101
+  - link: "#pricing"
+    link_text: Pricing
+  cta:
+    url: https://rzp.io/TradingMasterclass
+    button_text: Buy
 - template: hero-banner-w-image
   block: hero-2
   headline: "<em>Trading Masterclass,</em> <strong> Period.</strong>"
