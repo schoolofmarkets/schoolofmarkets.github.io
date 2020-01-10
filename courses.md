@@ -15,19 +15,13 @@ page_sections:
     link_text: Trading 101
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<em>Trading &amp; Investing</em><br><strong>For Students</strong>"
-  content: 'Ever seen those Ads that show "Ambani" kind of returns in a day?<br><br><span
-    style="text-decoration: underline;">If that was possible, why don''t they trade
-    themselves instead of showing you ads?<br></span><br><br><strong>Learn from scratch
-    &amp; Trade right.</strong>'
+  headline: <em>We have three unique Offerings</em>
+  content: <ol><li><strong>For Students </strong> <br><em>Trading 101 - A grassroots program</em></li><br><li><strong>The next level </strong> <br><em>Trading Masterclass - A comprehensive trading program</em></li><strong>For Investing needs </strong> <br><em>Value Investing - The pocket course of Sensible Investing</em></li></ol>
   cta:
     enabled: true
     url: https://rzp.io/l/trading101
     button_text: Shut up and take my money!
-  image:
-    image: "/uploads/2019/12/12/Trading 101.png"
-    alt_text: School of Markets
-  background_image: ''
+    background_image: ''
 - template: 1-column-text
   block: one-column-1
   headline: Trading Masterclass
