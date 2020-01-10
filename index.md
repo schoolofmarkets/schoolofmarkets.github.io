@@ -19,7 +19,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<em>Affordable Education </em><br><strong>For Every Need</strong>"
-  content: Be it Trading, Investing or a grassroots course into the Markets, you are at the right place.<strong> We won't say we're the best, but, yeah, we are. </strong>'
+  content: Be it Trading, Investing or a grassroots course into the Markets, you are at the right place.<strong> We won't say we're the best, but, yeah, we are. </strong>
   cta:
     enabled: true
     url: https://rzp.io/l/trading101
@@ -32,7 +32,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: <strong> Learn 24/7 anytime, all-time!</strong><br><spanclass="light">We pride ourselves with a unique mobile based knowledge solution.</span>
-  content: 'No need to download any app, no need to sign into any website, and lose your privacy. This is a simple, systematic and straightforward concept where the course is added to your own Cloud Drive. (At the moment, we support GDrive and OneDrive)'
+  content: No need to download any app, no need to sign into any website, and lose your privacy. This is a simple, systematic and straightforward concept where the course is added to your own Cloud Drive. (At the moment, we support GDrive and OneDrive)
   media:
     image: "/uploads/2019/12/12/Trade & Invest from the Right Age-4.png"
     alt_text: Learn on the go
