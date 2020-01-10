@@ -16,7 +16,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: <em>We have three unique Offerings</em>
-  content: <ol><li><strong>For Students </strong> <br><em>Trading 101 - A grassroots program</em></li><br><li><strong>The next level </strong> <br><em>Trading Masterclass - A comprehensive trading program</em></li><strong>For Investing needs </strong> <br><em>Value Investing - The pocket course of Sensible Investing</em></li></ol>
+  content: <ol><li><strong>For Students </strong> <br><em>Trading 101 - A grassroots program</em></li><br><li><strong>The next level </strong> <br><em>Trading Masterclass - A comprehensive trading program</em></li><br><li><strong>For Investing needs </strong> <br><em>Value Investing - The pocket course of Sensible Investing</em></li></ol>
   cta:
     enabled: true
     url: https://rzp.io/l/trading101
