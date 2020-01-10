@@ -50,8 +50,8 @@ page_sections:
   content: We don't aim to drain your pockets, as we believe that knowledge must be accessible to everyone always. We're simple people with simple yet strong ideals.<br>Are you <strong>Still waiting</strong>?
   cta:
     enabled: true
-    url: https://rzp.io/l/trading101
-    button_text: Get the Course Now!
+    url: "/courses"
+    button_text: See our Courses
   background_image: ''
   image:
     image: "/uploads/2020/01/09/hope.png"
