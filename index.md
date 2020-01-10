@@ -38,10 +38,13 @@ page_sections:
     alt_text: Learn on the go
 - template: 1-column-text
   block: one-column-1
-  headline: FAQs
-  content: <ul><li> <strong> Do video lectures actually work?</strong><br>Well, there is this big misconception that a live face to face session is better, but, with a cloud based series, people have consistently reported better understanding to us, and you can replay it any number of times. With the modern day needs and skewed work-life balance, this makes much more sense too, as you can Binge on it like Netflix. Just that, you learn here, than just laughing along with a laughter track on a sitcom.</li>
-  <li><strong>
-  
+  headline: <strong>FAQs</strong>
+  content: <ul><li> <strong> Do video lectures actually work?</strong><br><em>Well, there is this big misconception that a live face to face session is better, but, with a cloud based series, people have consistently reported better understanding to us, and you can replay it any number of times. With the modern day needs and skewed work-life balance, this makes much more sense too, as you can Binge on it like Netflix. Just that, you learn here, than just laughing along with a laughter track on a retarded sitcom.</em></li>
+  <li><strong> How to do the enrolment process?</strong><br><em>Go to the respective Courses from the top, and register for the course. You'd get the course sent to you, within 24 hours. (99%, within 12 hours)</em></li>
+  <li><strong> How much profit can I make?</strong><br><em>This is the wrong question. The right question would be how much you are willing to risk. If you are willing to take minimal risk, you can make 10% per trade very easily.(Which our Masterclass specialises in) If you're willing to risk more of your capital, sky is the limit. We've had people making 30 times!(Though we strictly never recommend it)</em></li>
+  <li><strong> Can I get a Discount?</strong><br><em>Really? Take a look at our prices. We'd gladly price our courses for ₹5, if we were selling samosas(On second thought, quality matters, so, even that would be at least ₹15). The courses have far more value than courses that are sold for over ₹50 thousand.</em></li>
+  <li><strong> How much capital will I need?</strong><br><em>There is no requirement of any minimum capital, only a mind to learn is required. But, we would suggest at least ₹5 thousand to start with.</em></li>
+  </ul>
 - template: content-feature
   block: feature-1
   media_alignment: Right
