@@ -14,6 +14,7 @@ page_sections:
     cta:
     url: https://rzp.io/l/TradingMasterclass
     button_text: I'm in
+    
 - template: hero-banner-w-image
   block: hero-2
   headline: "<em>Trading Masterclass,</em> <strong> Period.</strong>"
