@@ -14,7 +14,7 @@ page_sections:
   - link: "/trading101"
     link_text: Trading 101
   cta:
-    url: "/FAQ"
+    url: "#FAQ"
     button_text: FAQ
 - template: hero-banner-w-image
   block: hero-2
