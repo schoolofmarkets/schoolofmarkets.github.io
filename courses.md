@@ -12,7 +12,7 @@ page_sections:
   - link: "#pricing"
     link_text: Pricing
   cta:
-    url: https://rzp.io/TradingMasterclass
+    url: https://rzp.io/l/TradingMasterclass
     button_text: Buy
 - template: hero-banner-w-image
   block: hero-2
