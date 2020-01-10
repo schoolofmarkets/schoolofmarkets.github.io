@@ -16,12 +16,15 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: <em>We have three unique Offerings</em>
-  content: <ol><li><strong>For Students </strong> <br><em>Trading 101 - A grassroots program</em></li><br><li><strong>The next level </strong> <br><em>Trading Masterclass - A comprehensive trading program</em></li><br><li><strong>For Investing needs </strong> <br><em>Value Investing - The pocket course of Sensible Investing</em></li></ol>
+  content: <ol><li><strong>For Students </strong> <br><em>Trading 101 - A grassroots program</em></li><br><li><strong>The next level </strong> <br><em>Trading Masterclass - A comprehensive trading program</em></li><br><li><strong>For Investing needs </strong> <br><em>Value Investing - The pocket course of Sensible Investing</em></li></ol> 
   cta:
     enabled: true
-    url: https://rzp.io/l/trading101
-    button_text: Shut up and take my money!
-    background_image: ''
+    url: https://rzp.io/l/TradingMasterclass
+    button_text: Sounds perfect. I'm in!
+  image:
+    image: "/uploads/2020/01/09/michael scott.png"
+    alt_text: School of Markets
+  background_image: ''
 - template: 1-column-text
   block: one-column-1
   headline: Trading Masterclass
@@ -66,10 +69,6 @@ page_sections:
   content: Not a penny more. Too good to believe? Here's something that would blow
     your mind even further! We'd also give you guys exclusive content every month!
     All for a one-time fee of ₹999!<br>Are you <strong>Still waiting</strong>?
-  cta:
-    enabled: true
-    url: https://rzp.io/l/trading101
-    button_text: Get the Course Now!
   background_image: ''
   image:
     image: "/uploads/2019/12/13/I'm gonna make you an offer you can't refuse.-2.png"
