@@ -16,7 +16,7 @@ page_sections:
     button_text: Buy
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<em>Trading Masterclass, Period.</em>"
+  headline: "<em>Trading Masterclass,</em> <strong> Period.</strong>"
   content: The "one" bag of ever growing knowledge you'd need to get out there and
     trade everyday, Explaining every nuance of trading. Be it advanced Indicators,
     or making your own Strategies, we got your back.
