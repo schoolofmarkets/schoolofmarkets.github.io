@@ -9,10 +9,10 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/courses"
+  - link: "/masterclass"
     link_text: Masterclass
-  - link: "#pricing"
-    link_text: Pricing
+  - link: "/trading101"
+    link_text: Trading 101
   cta:
     url: https://rzp.io/l/trading101
     button_text: Buy
