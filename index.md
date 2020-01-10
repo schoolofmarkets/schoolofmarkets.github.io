@@ -46,10 +46,8 @@ page_sections:
     
 - template: hero-banner-w-image
   block: hero-3
-  headline: Sounds good. But, What's the Price?<br><strong>₹ 999!</strong>
-  content: Not a penny more. Too good to believe? Here's something that would blow
-    your mind even further! We'd also give you guys exclusive content every month!
-    All for a one-time fee of ₹999!<br>Are you <strong>Still waiting</strong>?
+  headline: We have just one aim.<br><strong>More Knowledge at less prices.</strong>
+  content: We don't aim to drain your pockets, as we believe that knowledge must be accessible to everyone always. We're simple people with simple yet strong ideals.<br>Are you <strong>Still waiting</strong>?
   cta:
     enabled: true
     url: https://rzp.io/l/trading101
