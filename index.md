@@ -32,7 +32,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: <strong> Learn 24/7 anytime, all-time!</strong><br><spanclass="light">We pride ourselves with a unique mobile based knowledge solution.</span>
-  content: No need to download any app, no need to sign into any website, and lose your privacy. This is a simple, systematic and straightforward concept where the course is added to your own Cloud Drive. (At the moment, we support GDrive and OneDrive)
+  content: No need to download any app, no need to sign into any website, and lose your privacy. This is a simple, systematic and straightforward concept where the course is added to your own Cloud Drive. <br>(At the moment, we support GDrive and OneDrive)<br> <br> <strong>Psst... you get additional knowledge resources every month. No strings attached!</strong>
   media:
     image: "/uploads/2019/12/12/Trade & Invest from the Right Age-4.png"
     alt_text: Learn on the go
