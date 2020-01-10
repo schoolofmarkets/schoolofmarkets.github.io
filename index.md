@@ -28,7 +28,7 @@ page_sections:
     url: https://rzp.io/l/trading101
     button_text: Shut up and take my money!
   image:
-    image: "/uploads/2019/12/13/Trade & Invest from the Right Age-7.png"
+    image: "/uploads/2020/01/09/Copy of Trade & Invest from the Right Age-1.png"
     alt_text: School of Markets
   background_image: ''
 - template: 1-column-text
