@@ -54,7 +54,7 @@ page_sections:
     alt_text: Stock ticker
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2019/12/12/Add a heading-6.png"
+  image: "/uploads/2020/01/09/i'm in.png"
   caption: ''
 - template: hero-banner-w-image
   block: hero-3
