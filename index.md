@@ -34,7 +34,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Trading Masterclass
-  content: <em> More serious about trading, here is our flagship Trading Masterclass</em> <strong><a href = "https://schoolofmarkets.com/courses">Click here </a></strong>
+  content: More serious about trading? <strong><a href = "https://schoolofmarkets.com/courses">Here is our flagship Trading Masterclass for you </a>
 - template: content-feature
   block: feature-1
   media_alignment: Left
