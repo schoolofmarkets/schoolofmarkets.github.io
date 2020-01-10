@@ -58,7 +58,7 @@ page_sections:
   caption: ''
 - template: hero-banner-w-image
   block: hero-3
-  headline: Too good to be true? Here is something that you'd find harder beleving.	<br><strong>₹ 4999. That's it.</strong>
+  headline: Sounds Too good to be true? Here is a number for you<br><strong>₹ 4999.</strong>
   content: Not a penny more. <br>Not a paise of continued support fees.<br> Not a paise extra for calls.<br>We won't give calls, but, give you enough knowledge, for you to generate calls.
     This is the best deal in the history of mankind, Period.<br>Wait... are you <strong>Still waiting</strong>?
   cta:
