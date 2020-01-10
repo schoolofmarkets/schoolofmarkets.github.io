@@ -38,10 +38,10 @@ page_sections:
     alt_text: Learn on the go
 - template: 1-column-text
   block: one-column-1
-  headline: How do I clear my Doubts?
-  content: We did a completely structured course, with quizzes too which would make sure no doubts come
-    up. Despite that, if you ever have any doubt, you can get it cleared over call/text/TeamViewer
-    anytime, all-time!
+  headline: FAQs
+  content: <ul><li> <strong> Do video lectures actually work?</strong><br>Well, there is this big misconception that a live face to face session is better, but, with a cloud based series, people have consistently reported better understanding to us, and you can replay it any number of times. With the modern day needs and skewed work-life balance, this makes much more sense too, as you can Binge on it like Netflix. Just that, you learn here, than just laughing along with a laughter track on a sitcom.</li>
+  <li><strong>
+  
 - template: content-feature
   block: feature-1
   media_alignment: Right
