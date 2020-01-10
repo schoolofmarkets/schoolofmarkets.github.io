@@ -7,8 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/12/12/Add a heading-3.png"
   navigation:
-  - link: "/"
-    link_text: Home
+  - link: "/courses"
+    link_text: Courses
   - link: "/masterclass"
     link_text: Masterclass
   - link: "/trading101"
