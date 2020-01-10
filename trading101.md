@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/courses"
+  - link: "/masterclass"
     link_text: Masterclass
   - link: "#pricing"
     link_text: Pricing
@@ -28,13 +28,13 @@ page_sections:
     url: https://rzp.io/l/trading101
     button_text: Shut up and take my money!
   image:
-    image: "/uploads/2020/01/09/Home.png"
+    image: "/uploads/2019/12/12/Trading 101.png"
     alt_text: School of Markets
   background_image: ''
 - template: 1-column-text
   block: one-column-1
   headline: Trading Masterclass
-  content: More serious about trading? <strong><a href = "https://schoolofmarkets.com/courses">Here is our flagship Trading Masterclass for you </a>
+  content: More serious about trading? <strong><a href = "https://schoolofmarkets.com/masterclass">Here is our flagship Trading Masterclass for you </a>
 - template: content-feature
   block: feature-1
   media_alignment: Left
