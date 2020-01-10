@@ -11,7 +11,6 @@ page_sections:
     link_text: Home
   - link: "/index"
     link_text: Courses
-
 cta:
     url: https://rzp.io/l/TradingMasterclass
     button_text: I'm in
