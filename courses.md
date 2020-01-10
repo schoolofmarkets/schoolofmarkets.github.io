@@ -52,10 +52,6 @@ page_sections:
   media:
     image: "/uploads/2020/01/09/indicator.gif"
     alt_text: Stock ticker
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2020/01/09/i'm in.png"
-  caption: ''
 - template: hero-banner-w-image
   block: hero-3
   headline: Sounds Too good to be true? Here is a number for you<br><strong>₹ 4999.</strong>
