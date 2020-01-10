@@ -45,22 +45,6 @@ page_sections:
   <li><strong> Can I get a Discount?</strong><br><em>Really? Take a look at our prices. We'd gladly price our courses for ₹5, if we were selling samosas(On second thought, quality matters, so, even that would be at least ₹15). The courses have far more value than courses that are sold for over ₹50 thousand.</em></li>
   <li><strong> How much capital will I need?</strong><br><em>There is no requirement of any minimum capital, only a mind to learn is required. But, we would suggest at least ₹5 thousand to start with.</em></li>
   </ul>
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>You'd Learn</strong><span class="light"> how the market works,
-    how prices move.</span>
-  content: "<strong>-- Analyse stocks/crypto/forex and forecast price movements.</strong><br><br>--
-    <strong>Spot new trends before anyone<br><br>-- Make consistent profits.<br><br>Over
-    95% traders lose money for lack of knowledge. <br>With us, you will be in the
-    5% always!</strong>"
-  media:
-    image: "/uploads/2019/12/12/live ticker for college website-1.gif"
-    alt_text: Stock ticker
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2019/12/12/Add a heading-6.png"
-  caption: ''
 - template: hero-banner-w-image
   block: hero-3
   headline: Sounds good. But, What's the Price?<br><strong>₹ 999!</strong>
