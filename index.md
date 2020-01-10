@@ -57,7 +57,7 @@ page_sections:
   background_image: ''
   image:
     image: "/uploads/2020/01/09/hope.png"
-    alt_text: An offer you cant refuse
+    alt_text: Knowledge
 
 - template: 1-column-text
   block: one-column-1
