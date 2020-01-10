@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Home
+title: Courses
 date: 
 page_sections:
 - template: navigation-header-w-button
@@ -11,11 +11,8 @@ page_sections:
     link_text: Home
   - link: "/masterclass"
     link_text: Masterclass
-  - link: "#pricing"
-    link_text: Pricing
-  cta:
-    url: https://rzp.io/l/trading101
-    button_text: Buy
+  - link: "/trading101"
+    link_text: Trading 101
 - template: hero-banner-w-image
   block: hero-2
   headline: "<em>Trading &amp; Investing</em><br><strong>For Students</strong>"
