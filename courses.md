@@ -13,6 +13,9 @@ page_sections:
     link_text: Masterclass
   - link: "/trading101"
     link_text: Trading 101
+  cta:
+    url: "https://wa.me/91908063240"
+    button_text: Contact
 - template: hero-banner-w-image
   block: hero-2
   headline: <em>We have three unique Offerings</em>
