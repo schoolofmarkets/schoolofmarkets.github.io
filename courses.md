@@ -58,10 +58,9 @@ page_sections:
   caption: ''
 - template: hero-banner-w-image
   block: hero-3
-  headline: Sounds good. But, What's the Price?<br><strong>₹ 999!</strong>
-  content: Not a penny more. Too good to believe? Here's something that would blow
-    your mind even further! We'd also give you guys exclusive content every month!
-    All for a one-time fee of ₹999!<br>Are you <strong>Still waiting</strong>?
+  headline: Too good to be true? Here is something that you'd find harder beleving. All this for <br><strong>₹ 4999!</strong>
+  content: Not a penny more. Not a paise of continued support fees, not a paise extra for calls. We won't give calls, but, give you enough knowledge, for you to generate calls.
+    This is the best deal in the history of mankind.<br>Wait... are you <strong>Still waiting</strong>?
   cta:
     enabled: true
     url: https://rzp.io/l/trading101
