@@ -67,7 +67,7 @@ page_sections:
     button_text: Get the Course Now!
   background_image: ''
   image:
-    image: "/uploads/2019/12/13/I'm gonna make you an offer you can't refuse.-2.png"
+    image: "/uploads/2020/01/09/i'm in.png"
     alt_text: Son of a bitch, I'm  in
 - template: 1-column-text
   block: one-column-1
