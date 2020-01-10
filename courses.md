@@ -58,7 +58,7 @@ page_sections:
   caption: ''
 - template: hero-banner-w-image
   block: hero-3
-  headline: Too good to be true? Here is something that you'd find harder beleving. All this for <br><strong>₹ 4999!</strong>
+  headline: Too good to be true? Here is something that you'd find harder beleving.	<br><strong>₹ 4999. That's it.</strong>
   content: Not a penny more. Not a paise of continued support fees, not a paise extra for calls. We won't give calls, but, give you enough knowledge, for you to generate calls.
     This is the best deal in the history of mankind.<br>Wait... are you <strong>Still waiting</strong>?
   cta:
@@ -68,7 +68,7 @@ page_sections:
   background_image: ''
   image:
     image: "/uploads/2019/12/13/I'm gonna make you an offer you can't refuse.-2.png"
-    alt_text: An offer you cant refuse
+    alt_text: Son of a bitch, I'm  in
 - template: 1-column-text
   block: one-column-1
   headline: "<strong> P.S. You'd also get a Certificate for completing this!</strong>"
