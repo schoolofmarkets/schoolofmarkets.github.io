@@ -14,36 +14,25 @@ page_sections:
   - link: "/trading101"
     link_text: Trading 101
   cta:
-    url: https://rzp.io/l/trading101
-    button_text: Buy
+    url: "/FAQ"
+    button_text: FAQ
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<em>Trading &amp; Investing</em><br><strong>For Students</strong>"
-  content: 'Ever seen those Ads that show "Ambani" kind of returns in a day?<br><br><span
-    style="text-decoration: underline;">If that was possible, why don''t they trade
-    themselves instead of showing you ads?<br></span><br><br><strong>Learn from scratch
-    &amp; Trade right.</strong>'
+  headline: "<em>Affordable Education </em><br><strong>For Every Need</strong>"
+  content: Be it Trading, Investing or a grassroots course into the Markets, you are at the right place.<strong> We won't say we're the best, but, yeah, we are. </strong>'
   cta:
     enabled: true
     url: https://rzp.io/l/trading101
-    button_text: Shut up and take my money!
+    button_text: Courses we offer
   image:
     image: "/uploads/2020/01/09/Home.png"
     alt_text: School of Markets
   background_image: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Trading Masterclass
-  content: More serious about trading? <strong><a href = "https://schoolofmarkets.com/courses">Here is our flagship Trading Masterclass for you </a>
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Cloud based 24/7 learning<span class="light"><br></span></strong><span
-    class="light">Carry the course everywhere on your Mobile.</span>
-  content: 'You can view the entire course for unlimited number of times, through
-    your mobile.<br><span style="text-decoration: underline;">Yes, you read it right.
-    No Strings Attached!</span><br><br><em>We''re all about affordable education,
-    and making College students Financially Independent is our Motto of the year 2020!</em>'
+  headline: <strong> Learn 24/7 anytime, all-time!</strong><br><spanclass="light">We pride ourselves with a unique mobile based knowledge solution.</span>
+  content: 'No need to download any app, no need to sign into any website, and lose your privacy. This is a simple, systematic and straightforward concept where the course is added to your own Cloud Drive. (At the moment, we support GDrive and OneDrive)'
   media:
     image: "/uploads/2019/12/12/Trade & Invest from the Right Age-4.png"
     alt_text: Learn on the go
