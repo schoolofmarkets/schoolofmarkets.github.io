@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Courses
+title: Masterclass
 date: 
 page_sections:
 - template: navigation-header-w-button
@@ -9,11 +9,11 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/courses"
+  - link: "/index"
     link_text: Courses
     cta:
-    url: https://rzp.io/SMmcmini
-    button_text: Buy
+    url: https://rzp.io/l/TradingMasterclass
+    button_text: I'm in
 - template: hero-banner-w-image
   block: hero-2
   headline: "<em>Trading Masterclass,</em> <strong> Period.</strong>"
@@ -22,7 +22,7 @@ page_sections:
     or making your own Strategies, we got your back.
   cta:
     enabled: true
-    url: https://rzp.io/SMmcmini
+    url: https://rzp.io/l/TradingMasterclass
     button_text: Sounds perfect. I'm in!
   image:
     image: "/uploads/2020/01/09/Copy of Trade & Invest from the Right Age-1.png"
@@ -59,7 +59,7 @@ page_sections:
     This is the best deal in the history of mankind, Period.<br>Wait... are you <strong>Still waiting</strong>?
   cta:
     enabled: true
-    url: https://rzp.io/l/trading101
+    url: https://rzp.io/l/TradingMasterclass
     button_text: Get the Course Now!
   background_image: ''
   image:
@@ -77,7 +77,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: <em>Made with<span class="Apple-converted-space"> </span><span class="love">Love</span><span
-    class="Apple-converted-space"> </span>for Students</em><strong> </strong>❤︎
+    class="Apple-converted-space"> </span>for Everyone</em><strong> </strong>❤︎
 
 ---
 foo bar
