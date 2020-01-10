@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#features"
-    link_text: Features
+  - link: "/courses"
+    link_text: Masterclass
   - link: "#pricing"
     link_text: Pricing
   cta:
