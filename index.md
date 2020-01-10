@@ -31,6 +31,10 @@ page_sections:
     image: "/uploads/2019/12/13/Trade & Invest from the Right Age-7.png"
     alt_text: School of Markets
   background_image: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Trading Masterclass
+  content: <em> Here is Trading Masterclass for those experienced.</em> <strong><a href = "https://schoolofmarkets.com/courses">Click here </a></strong>
 - template: content-feature
   block: feature-1
   media_alignment: Left
