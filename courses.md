@@ -14,7 +14,7 @@ page_sections:
   - link: "/trading101"
     link_text: Trading 101
   cta:
-    url: "https://wa.me/91908063240"
+    url: "https://wa.me/919080673240"
     button_text: Contact
 - template: hero-banner-w-image
   block: hero-2
