@@ -56,10 +56,6 @@ page_sections:
   image:
     image: "/uploads/2020/01/09/hope.png"
     alt_text: Knowledge
-
-- template: 1-column-text
-  block: one-column-1
-  headline: <strong> P.S. You'd also get a Certificate for completing this!</strong>
 - template: 1-column-text
   block: one-column-1
   headline: Further Queries?
