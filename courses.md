@@ -30,10 +30,10 @@ page_sections:
   background_image: ''
 - template: 1-column-text
   block: one-column-1
-  content: <h2>Trading Masterclass</h2> <strong><a href = "https://schoolofmarkets.com/masterclass">Here is our flagship Trading Masterclass for you </a><br><br>
-    <h2>Trading 101</h2><strong><a href = "https://schoolofmarkets.com/masterclass">Need a start into Trading? Here is Trading 101 </a><br><br>
+  content: <h2>Trading Masterclass</h2> <strong><a href = "https://schoolofmarkets.github.io/masterclass">Here is our flagship Trading Masterclass for you </a><br><br>
+    <h2>Trading 101</h2><strong><a href = "https://schoolofmarkets.github.io/trading101">Need a start into Trading? Here is Trading 101 </a><br><br>
     <h2>Value Investing</h2>
-    <strong><a href = "https://schoolofmarkets.com/masterclass">Want to learn to Invest? Here is the Pocket course of Value Investing </a>
+    <strong><a href = "https://rzp.io/l/SMvalueinvesting">Want to learn to Invest? Here is the Pocket course of Value Investing </a>
 - template: 1-column-text
   block: one-column-1
   headline: Further Queries?
