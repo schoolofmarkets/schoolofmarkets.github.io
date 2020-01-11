@@ -19,7 +19,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: <em>We have three unique Offerings</em>
-  content: <ol><li><strong>For Students </strong> <br><em><a href = "https://schoolofmarkets.github.io/trading101">Trading 101 - A grassroots program</a></em></li><br><li><strong>The next level </strong> <br><em><a href = "https://schoolofmarkets.github.io/masterclass">Trading Masterclass - A comprehensive trading program</em></a></li><br><li><strong>For Investing needs </strong> <br><em><a href = "https://rzp.io/l/SMvalueinvesting">Value Investing - The pocket course of Sensible Investing</a></em></li></ol> 
+  content: <h3><ol><li><strong>For Students </strong> <br><em><a href = "https://schoolofmarkets.github.io/trading101">Trading 101 - A grassroots program</a></em></li><br><li><strong>The next level </strong> <br><em><a href = "https://schoolofmarkets.github.io/masterclass">Trading Masterclass - A comprehensive trading program</em></a></li><br><li><strong>For Investing needs </strong> <br><em><a href = "https://rzp.io/l/SMvalueinvesting">Value Investing - The pocket course of Sensible Investing</a></em></li></ol> </h3>
   cta:
     enabled: true
     url: https://wa.me/919080673240
