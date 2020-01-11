@@ -95,7 +95,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: <em>Made with<span class="Apple-converted-space"> </span><span class="love">Love</span><span
-    class="Apple-converted-space"> </span>for Students</em><strong> </strong>❤︎
+    class="Apple-converted-space"> </span>for Students</em>❤︎
 
 ---
 foo bar
