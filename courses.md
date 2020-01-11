@@ -34,54 +34,6 @@ page_sections:
     <h2>Trading 101</h2><strong><a href = "https://schoolofmarkets.com/masterclass">Need a start into Trading? Here is Trading 101 </a><br><br>
     <h2>Value Investing</h2>
     <strong><a href = "https://schoolofmarkets.com/masterclass">Want to learn to Invest? Here is the Pocket course of Value Investing </a>
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: <strong>Cloud based 24/7 learning<span class="light"><br></span></strong><span
-    class="light">Carry the course everywhere on your Mobile.</span>
-  content: 'You can view the entire course for unlimited number of times, through
-    your mobile.<br><span style="text-decoration: underline;">Yes, you read it right.
-    No Strings Attached!</span><br><br><em>We''re all about affordable education,
-    and making College students Financially Independent is our Motto of the year 2020!</em>'
-  media:
-    image: "/uploads/2019/12/12/Trade & Invest from the Right Age-4.png"
-    alt_text: Learn on the go
-- template: 1-column-text
-  block: one-column-1
-  headline: How do I clear my Doubts?
-  content: We did a completely structured course, with quizzes too which would make sure no doubts come
-    up. Despite that, if you ever have any doubt, you can get it cleared over call/text/TeamViewer
-    anytime, all-time!
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>You'd Learn</strong><span class="light"> how the market works,
-    how prices move.</span>
-  content: "<strong>-- Analyse stocks/crypto/forex and forecast price movements.</strong><br><br>--
-    <strong>Spot new trends before anyone<br><br>-- Make consistent profits.<br><br>Over
-    95% traders lose money for lack of knowledge. <br>With us, you will be in the
-    5% always!</strong>"
-  media:
-    image: "/uploads/2019/12/12/live ticker for college website-1.gif"
-    alt_text: Stock ticker
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2019/12/12/Add a heading-6.png"
-  caption: ''
-- template: hero-banner-w-image
-  block: hero-3
-  headline: Sounds good. But, What's the Price?<br><strong>₹ 999!</strong>
-  content: Not a penny more. Too good to believe? Here's something that would blow
-    your mind even further! We'd also give you guys exclusive content every month!
-    All for a one-time fee of ₹999!<br>Are you <strong>Still waiting</strong>?
-  background_image: ''
-  image:
-    image: "/uploads/2019/12/13/I'm gonna make you an offer you can't refuse.-2.png"
-    alt_text: An offer you cant refuse
-
-- template: 1-column-text
-  block: one-column-1
-  headline: <strong> P.S. You'd also get a Certificate for completing this!</strong>
 - template: 1-column-text
   block: one-column-1
   headline: Further Queries?
