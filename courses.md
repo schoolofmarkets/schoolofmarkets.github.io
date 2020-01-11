@@ -22,8 +22,8 @@ page_sections:
   content: <ol><li><strong>For Students </strong> <br><em>Trading 101 - A grassroots program</em></li><br><li><strong>The next level </strong> <br><em>Trading Masterclass - A comprehensive trading program</em></li><br><li><strong>For Investing needs </strong> <br><em>Value Investing - The pocket course of Sensible Investing</em></li></ol> 
   cta:
     enabled: true
-    url: https://rzp.io/l/TradingMasterclass
-    button_text: Sounds perfect. I'm in!
+    url: https://wa.me/919080673240
+    button_text: Need Help choosing.
   image:
     image: "/uploads/2020/01/09/michael scott.png"
     alt_text: School of Markets
