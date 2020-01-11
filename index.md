@@ -22,7 +22,7 @@ page_sections:
   content: Be it Trading, Investing or a grassroots course into the Markets, you are at the right place.<strong> We won't say we're the best, but, yeah, we are. </strong>
   cta:
     enabled: true
-    url: https://rzp.io/l/trading101
+    url: "/courses"
     button_text: Courses we offer
   image:
     image: "/uploads/2020/01/09/Home.png"
