@@ -14,7 +14,7 @@ page_sections:
   - link: "/trading101"
     link_text: Trading 101
   cta:
-    url: "#FAQs"
+    url: "#FAQ"
     button_text: FAQ
 - template: hero-banner-w-image
   block: hero-2
@@ -38,7 +38,7 @@ page_sections:
     alt_text: Learn on the go
 - template: 1-column-text
   block: one-column-1
-  headline: <strong>FAQs</strong>
+  headline: <a name="FAQ"><strong>FAQs</strong></a>
   content:
     <br>
     <strong> Do video lectures actually work?</strong><br><em>Well, there is this big misconception that a live face to face session is better, but, with a cloud based series, people have consistently reported better understanding to us, and you can replay it any number of times. With the modern day needs and skewed work-life balance, this makes much more sense too, as you can Binge on it like Netflix. Just that, you learn here, than just laughing to a recorded laugh track on a retarded sitcom.</em><br><br>
