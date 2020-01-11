@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2019/12/12/Add a heading-3.png"
   navigation:
   - link: "/"
-    link_text: Trading 101
+    link_text: Home
   - link: "#pricing"
     link_text: Pricing
   cta:
