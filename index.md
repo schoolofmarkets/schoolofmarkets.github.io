@@ -37,6 +37,7 @@ page_sections:
     image: "/uploads/2019/12/12/Trade & Invest from the Right Age-4.png"
     alt_text: Learn on the go
 - template: 1-column-text
+  ##<a name="FAQ"></a>
   block: one-column-1
   headline: <strong>FAQs</strong>
   content:
