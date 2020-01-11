@@ -30,9 +30,9 @@ page_sections:
   background_image: ''
 - template: 1-column-text
   block: one-column-1
-  content: <h2>Trading Masterclass</h2> <strong><a href = "https://schoolofmarkets.com/masterclass">Here is our flagship Trading Masterclass for you </a>
-    <h2>Trading 101</h2> <strong><a href = "https://schoolofmarkets.com/masterclass">Need a start into Trading? Here is Trading 101 </a>
-    <h2>Value Investing</h2> 
+  content: <h2>Trading Masterclass</h2><br> <strong><a href = "https://schoolofmarkets.com/masterclass">Here is our flagship Trading Masterclass for you </a><br><br>
+    <h2>Trading 101</h2><br><strong><a href = "https://schoolofmarkets.com/masterclass">Need a start into Trading? Here is Trading 101 </a><br><br>
+    <h2>Value Investing</h2><br>
     <strong><a href = "https://schoolofmarkets.com/masterclass">Want to learn to Invest? Here is the Pocket course of Value Investing </a>
 - template: content-feature
   block: feature-1
