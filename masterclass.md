@@ -25,13 +25,13 @@ page_sections:
     url: https://rzp.io/l/TradingMasterclass
     button_text: Sounds perfect. I'm in!
   image:
-    image: "/uploads/2020/01/09/Copy of Trade & Invest from the Right Age-1.png"
+    image: "/uploads/2020/01/09/learn anywhere.png"
     alt_text: School of Markets
   background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Learn tough stuff from anywhere<span class="light"><br></span></strong><spanclass="light"> Anyplace, anytime, always on your device!</span>
+  headline: <strong>Trade Masterclass!<span class="light"><br></span></strong><spanclass="light"> Your place, Your time, Your device!</span>
   content: 'As always,<span style="text-decoration: underline;">
     No Strings Attached!</span><br><em>We have only one motto, and that is anything
     but overcharging for Education.</em>'
