@@ -19,7 +19,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<em>Affordable Education </em><br><strong>For Every Need</strong>"
-  content: Be it Trading, Investing or a grassroots course into the Markets, you are at the right place.<strong> We won't say we're the best, but, yeah, we are. </strong>
+  content: Be it Trading, Investing or a grassroots course into Trading, you are at the right place!<strong> We won't say we're the best, but... yeah, we are! </strong>
   cta:
     enabled: true
     url: "/courses"
@@ -38,10 +38,10 @@ page_sections:
     alt_text: Learn on the go
 - template: 1-column-text
   block: one-column-1
-  headline: <a name="FAQ"><strong>FAQs</strong></a>
+  headline: <a name="FAQ"><h3>FAQs</h3></a>
   content:
     <br>
-    <strong> Do video lectures actually work?</strong><br><em>Well, there is this big misconception that a live face to face session is better, but, with a cloud based series, people have consistently reported better understanding to us, and you can replay it any number of times. With the modern day needs and skewed work-life balance, this makes much more sense too, as you can Binge on it like Netflix. Just that, you learn here, than just laughing to a recorded laugh track on a retarded sitcom.</em><br><br>
+    <strong> Do video lectures actually work?</strong><br><em>There is this big misconception that a live face to face session is better, but, with a cloud based series, people have consistently reported better understanding to us, and you can replay it any number of times. With the modern day needs and skewed work-life balance, you can Binge like Netflix. Just that, you learn here, than just laughing along to a recorded laugh track on a retarded sitcom.</em><br><br>
     <strong> How to do the enrolment process?</strong><br><em>Go to the respective Courses from the top, and register for the course. You'd get the course sent to you, within 24 hours.</em><br><br><strong> How much profit can I make?</strong><br><em>This is the wrong question. The right question would be how much you are willing to risk. If you are willing to take minimal risk, you can make 10% per trade very easily.(Which our Masterclass specialises in) If you're willing to risk more of your capital, sky is the limit. We've had people making 30 times!(Though we strictly never recommend it)</em><br><br><strong> Can I get a Discount?</strong><br><em>Really? Take a look at our prices. We'd gladly price our courses for ₹5, if we were selling samosas<br>(On second thought, quality matters, so, even that would be at least ₹15). The courses have far more value than courses that are sold for over ₹50 thousand.</em><br><br><strong> How much capital will I need?</strong><br><em>There is no requirement of any minimum capital, only a mind to learn is required. But, we would suggest at least ₹5 thousand to start with.</em>
     
 - template: hero-banner-w-image
