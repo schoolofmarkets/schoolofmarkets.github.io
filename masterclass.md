@@ -67,10 +67,6 @@ page_sections:
     alt_text: Son of a bitch, I'm  in
 - template: 1-column-text
   block: one-column-1
-  headline: "<strong> P.S. You'd also get a Certificate for completing this!</strong>"
-  content: ''
-- template: 1-column-text
-  block: one-column-1
   headline: Further Queries?
   content: <a href="https://wa.me/919080673240" title="WhatsApp">Click here to reach
     to us on WhatsApp</a>
