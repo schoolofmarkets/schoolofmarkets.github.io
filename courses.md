@@ -25,7 +25,7 @@ page_sections:
     url: https://wa.me/919080673240
     button_text: Need Help choosing.
   image:
-    image: "/uploads/2020/01/09/michael scott.png"
+    image: "/uploads/2020/01/09/interpret markets.png"
     alt_text: School of Markets
   background_image: ''
 - template: 1-column-text
