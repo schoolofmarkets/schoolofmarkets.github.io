@@ -31,8 +31,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong> Learn 24/7 anytime, all-time!</strong><br><spanclass="light">We pride ourselves with a unique mobile based knowledge solution.</span>
-  content: No need to download any app, no need to sign into any website, and lose your privacy. This is a simple, systematic and straightforward concept where the course is added to your own Cloud Drive. <br>(At the moment, we support GDrive and OneDrive)<br> <br> <strong>Psst... you get additional knowledge resources every month. No strings attached!</strong>
+  headline: <strong> Learn 24/7 anytime, all-time!</strong><br><spanclass="light">We bring a unique mobile based knowledge solution.</span>
+  content: You don't have to sign in to any website or app, it's delivered to either your Google or One Drive. That simple!<br> <br> <strong>Psst... you get additional knowledge resources every month. No strings attached!</strong>
   media:
     image: "/uploads/2020/01/09/phone mockup.png"
     alt_text: Learn on the go
