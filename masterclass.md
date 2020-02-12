@@ -25,7 +25,7 @@ page_sections:
     url: https://rzp.io/l/TradingMasterclass
     button_text: Sounds perfect. I'm in!
   image:
-    image: "/uploads/2020/01/09/learn anywhere.png"
+    image: "/uploads/2020/01/09/masterclass.png"
     alt_text: School of Markets
   background_image: ''
 - template: content-feature
@@ -36,7 +36,7 @@ page_sections:
     No Strings Attached!</span><br><em>We have only one motto, and that is anything
     but overcharging for Education.</em>'
   media:
-    image: "/uploads/2019/12/12/Trade & Invest from the Right Age-4.png"
+    image: "/uploads/2020/01/09/learn anywhere.png"
     alt_text: Learn on the go
 - template: 1-column-text
   block: one-column-1
