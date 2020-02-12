@@ -22,8 +22,8 @@ page_sections:
   content: Be it Trading, Investing or a grassroots course into Trading, you are at the right place!<strong> We won't say we're the best, but... yeah, we are! </strong>
   cta:
     enabled: true
-    url: "/courses"
-    button_text: Courses we offer
+    url: "/masterclass"
+    button_text: Enrol Now!
   image:
     image: "/uploads/2020/01/09/Home.png"
     alt_text: School of Markets
@@ -42,8 +42,8 @@ page_sections:
   content: We don't aim to drain your pockets, as we believe that knowledge must be accessible to everyone always. We're simple people with simple yet strong ideals.<br>Are you <strong>Still waiting</strong>?
   cta:
     enabled: true
-    url: "/courses"
-    button_text: See our Courses
+    url: "/masterclass"
+    button_text: Enrol Now!
   background_image: ''
   image:
     image: "/uploads/2020/01/09/hope.png"
