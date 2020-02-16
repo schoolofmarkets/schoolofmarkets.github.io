@@ -19,7 +19,7 @@ page_sections:
   headline: "<em>Trading Masterclass,</em> <strong> Period.</strong>"
   content: The "one" bag of ever growing knowledge you'd need to get out there and
     trade everyday, Explaining every nuance of trading. Be it advanced Indicators,
-    or making your own Strategies, we got your back.
+    or making your own Strategies, we got you covered.
   cta:
     enabled: true
     url: https://rzp.io/l/TradingMasterclass
@@ -48,19 +48,19 @@ page_sections:
   headline: <strong>You'd Learn</strong><span class="light"> Price Patterns, OI, Indicators,
     to craft strategies... and these are just a few to name!</span>
   content: "<strong>-- Know which markets to trade, and which to avoid</strong><br><br>--
-    <strong>Master Derivatives and Enter the World of lightning trades<br><br>--Make consistent profits.<br><br></strong> <em>Psst... you also get continued learning resources delivered to you every month, no questions asked.</em>"
+    <strong>Master Derivatives and Enter the World of lightning trades<br><br>--Make consistent profits. All, starting from Absolute Basics! <br><br></strong> <em>Psst... you also get continued learning resources delivered to you every month, no questions asked.</em>"
   media:
     image: "/uploads/2020/01/09/indicator.gif"
     alt_text: Stock ticker
 - template: hero-banner-w-image
   block: hero-3
   headline: Sounds Too good to be true? Here is a number for you<br><strong>₹ 4999.</strong>
-  content: Not a penny more. <br>Not a paise of continued support fees.<br> Not a paise extra for calls.<br>We won't give calls, but, give you enough knowledge, for you to generate calls.
+  content: Not a penny more. <br>Not a paise for continued support.<br> Not a paise extra for tips.<br>We won't give calls, because, after you do the course, you will give us calls! We're so confident in our program!
     This is the best deal in the history of mankind, Period.<br>Wait... are you <strong>Still waiting</strong>?
   cta:
     enabled: true
     url: https://rzp.io/l/TradingMasterclass
-    button_text: Get the Course Now!
+    button_text: Get the Course Now!!!
   background_image: ''
   image:
     image: "/uploads/2020/01/09/i'm in.png"
