@@ -3,11 +3,6 @@ layout: blocks
 title: Masterclass
 date: 
 page_sections:
-- template: 3-column-text
-  block: 3-column-text
-  logo: ''
-  navigation: ''
-  cta: ''
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2020/01/09/logo.png"
