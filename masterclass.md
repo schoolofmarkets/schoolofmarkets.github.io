@@ -3,6 +3,11 @@ layout: blocks
 title: Masterclass
 date: 
 page_sections:
+- template: 3-column-text
+  block: 3-column-text
+  logo: ''
+  navigation: ''
+  cta: ''
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2020/01/09/logo.png"
@@ -31,32 +36,41 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Trade Masterclass!<span class="light"><br></span></strong><spanclass="light"> Your place, Your time, Your device!</span>
-  content: 'As always,<span style="text-decoration: underline;">
-    No Strings Attached!</span><br><em>We have only one motto, and that is anything
-    but overcharging for Education.</em>'
+  headline: <strong>Trade Masterclass!<span class="light"><br></span></strong><spanclass="light">
+    Your place, Your time, Your device!</span>
+  content: 'As always,<span style="text-decoration: underline;"> No Strings Attached!</span><br><em>We
+    have only one motto, and that is anything but overcharging for Education.</em>'
   media:
     image: "/uploads/2020/01/09/learn anywhere.png"
     alt_text: Learn on the go
 - template: 1-column-text
   block: one-column-1
   headline: How do I clear my Doubts?
-  content: We did a very detailed course, with live examples and plenty of charting, analysis and commentary which would make sure no doubts come up. Despite that, if you ever have any doubt, you can get it cleared over call/text/TeamViewer anytime, all-time! <br>(Funny thing, many people actually ask if this is for an extra price... WHAT?! C'mon people! We're here just to help each other out.)
+  content: We did a very detailed course, with live examples and plenty of charting,
+    analysis and commentary which would make sure no doubts come up. Despite that,
+    if you ever have any doubt, you can get it cleared over call/text/TeamViewer anytime,
+    all-time! <br>(Funny thing, many people actually ask if this is for an extra price...
+    WHAT?! C'mon people! We're here just to help each other out.)
 - template: content-feature
   block: feature-1
   media_alignment: Right
   headline: <strong>You'd Learn</strong><span class="light"> Price Patterns, OI, Indicators,
     to craft strategies... and these are just a few to name!</span>
   content: "<strong>-- Know which markets to trade, and which to avoid</strong><br><br>--
-    <strong>Master Derivatives and Enter the World of lightning trades<br><br>--Make consistent profits. All, starting from Absolute Basics! <br><br></strong> <em>Psst... you also get continued learning resources delivered to you every month, no questions asked.</em>"
+    <strong>Master Derivatives and Enter the World of lightning trades<br><br>--Make
+    consistent profits. All, starting from Absolute Basics! <br><br></strong> <em>Psst...
+    you also get continued learning resources delivered to you every month, no questions
+    asked.</em>"
   media:
     image: "/uploads/2020/01/09/indicator.gif"
     alt_text: Stock ticker
 - template: hero-banner-w-image
   block: hero-3
   headline: Sounds Too good to be true? Here is a number for you<br><strong>₹ 4999.</strong>
-  content: Not a penny more. <br>Not a paise for continued support.<br> Not a paise extra for tips.<br>We won't give calls, because, after you do the course, you will give us calls! We're so confident in our program!
-    This is the best deal in the history of mankind, Period.<br>Wait... are you <strong>Still waiting</strong>?
+  content: Not a penny more. <br>Not a paise for continued support.<br> Not a paise
+    extra for tips.<br>We won't give calls, because, after you do the course, you
+    will give us calls! We're so confident in our program! This is the best deal in
+    the history of mankind, Period.<br>Wait... are you <strong>Still waiting</strong>?
   cta:
     enabled: true
     url: https://rzp.io/l/TradingMasterclass
