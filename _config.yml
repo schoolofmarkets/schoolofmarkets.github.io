@@ -5,7 +5,7 @@ email: schoolofmarkets@gmail.com
 description: The School of Markets presents the best learning opportunity for Students.
   Now, make that little pocket money on your own!
 baseurl: ""
-url: https://schoolofmarkets.github.io
+url: https://schoolofmarkets.com
 defaults:
 - scope:
     path: ''
