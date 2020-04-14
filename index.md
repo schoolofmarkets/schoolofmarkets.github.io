@@ -58,7 +58,6 @@ page_sections:
     <strong> How to do the enrolment process?</strong><br><em>Go to the respective Courses from the top, and register for the course. You'd get the course sent to you, within 24 hours.</em><br><br><strong> How much profit can I make?</strong><br><em>This is the wrong question. The right question would be how much you are willing to risk. If you are willing to take minimal risk, you can make 10% per trade very easily.(Which our Masterclass specialises in) If you're willing to risk more of your capital, sky is the limit. We've had people making 30 times!(Though we strictly never recommend it)</em><br><br><strong> Can I get a Discount?</strong><br><em>Really? Take a look at our prices. We'd gladly price our courses for ₹5, if we were selling samosas<br>(On second thought, quality matters, so, even that would be at least ₹15). The courses have far more value than courses that are sold for over ₹50 thousand.</em><br><br><strong> How much capital will I need?</strong><br><em>There is no requirement of any minimum capital, only a mind to learn is required. But, we would suggest at least ₹5 thousand to start with.</em>    
 
 <div>
-<head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -69,9 +68,6 @@ page_sections:
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <style type="text/css">
-body {
-	font-family: "Lato", sans-serif;
-}
 h2 {
 	color: #000;
 	font-size: 26px;
@@ -173,8 +169,7 @@ h2::after {
     border: 5px double;    
 }
 </style>
-</head>
-<body>
+
 <div class="container">
 	<div class="row">
 		<div class="col-sm-12">
@@ -355,7 +350,6 @@ h2::after {
 		</div>
 	</div>
 </div>  
-</body>  
 </div>                         		                            
 
 - template: 1-column-text
