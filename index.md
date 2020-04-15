@@ -57,11 +57,11 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: <img src="/uploads/2020/04/15/Asset 1.png"><br><br>The video lectures
-      are simple to understand yet makes us learn the complexity of the markets. Came
-      to know through Instagram. Never hesitated to contact Arvind to clear my doubts
-      and he never fails to get back. I'm more than satisfied with this course and
-      would happily refer others!
+    content: <img src="/uploads/2020/04/15/Asset 1.png"><br>                    <br>The
+      video lectures are simple to understand yet makes us learn the complexity of
+      the markets. Came to know through Instagram. Never hesitated to contact Arvind
+      to clear my doubts and he never fails to get back. I'mm more than satisfied
+      with this course and would happily refer others!
     headline: Nitish, Pilot, Nz
   col_2:
     headline: Guru, 22
