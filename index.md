@@ -62,7 +62,7 @@ page_sections:
       understand yet makes us learn the complexity of the markets.Never hesitated
       to contact Arvind to clear my doubts and he never fails to get back. I am more
       than satisfied with this course and would happily refer others!
-    headline: Nitish, Pilot
+    headline: Nitish, Pilot, Nz
   col_2:
     headline: Guru, 22
     content: This has been an amazing experience learning technical analysis. I honestly
