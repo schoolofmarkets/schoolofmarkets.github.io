@@ -65,8 +65,9 @@ page_sections:
       to you. I am more than satisfied with this course and would happily refer others
     headline: Nitish, 19
   col_2:
-    headline: ''
-    content: ''
+    headline: Guru, 22
+    content: This has been an amazing experience learning technical analysis. I honestly
+      thought this was rocket science! I'm so happy to do this.
   col_3:
     headline: ''
     content: ''
