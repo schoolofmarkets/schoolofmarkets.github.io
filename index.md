@@ -59,10 +59,9 @@ page_sections:
   col_1:
     content: I came to know about this course through Instagram and enrolled myself.The
       video lectures are simple to understand yet makes us learn the complexity of
-      the markets. I saw the website and then understood that this is not a overnight
-      millionaire crash course rather a step by step approach towards it. I never
-      hesitated to contact Arvind to clear my doubts and he never fails to get back
-      to you. I am more than satisfied with this course and would happily refer others
+      the markets.Never hesitated to contact Arvind to clear my doubts and he never
+      fails to get back. I am more than satisfied with this course and would happily
+      refer others!
     headline: Nitish, 19
   col_2:
     headline: Guru, 22
