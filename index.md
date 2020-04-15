@@ -57,7 +57,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: <img src="/uploads/2020/04/15/Asset 1.png">I came to know about this
+    content: <img src="/uploads/2020/04/15/Asset 1.png"><br>I came to know about this
       course through Instagram and enrolled myself.The video lectures are simple to
       understand yet makes us learn the complexity of the markets.Never hesitated
       to contact Arvind to clear my doubts and he never fails to get back. I am more
