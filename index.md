@@ -64,9 +64,11 @@ page_sections:
       would definitely recommend this!
     headline: Nitish, Pilot, Nz
   col_2:
-    headline: Guru, 22
-    content: This has been an amazing experience learning technical analysis. I honestly
-      thought this was rocket science! I'm so happy to do this.
+    headline: Soumavo, Trader, Ind
+    content: <img src="/uploads/2020/04/15/Asset 3.png"><br><br>This course is a goldmine,
+      to generate amazing profits! Tried and Tested. I have been a full time trader
+      for 1.5 years now. This has completely changed the way I see the markets. This
+      course of 5000, can change your life trust me!
   col_3:
     headline: ''
     content: ''
