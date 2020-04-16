@@ -54,11 +54,10 @@ page_sections:
   image:
     image: "/uploads/2020/01/09/hope.png"
     alt_text: Knowledge
-
-headline: <h2>What recent students say about the course!</h2>
-
 - template: 3-column-text
   block: three-column-1
+  
+  headline: <h2>What recent students say about the course!</h2>
   col_1:
     content: <img src="/uploads/2020/04/15/Asset 1.png"><br>                    <br>The
       video lectures are simple to understand yet makes us learn the complexity of
