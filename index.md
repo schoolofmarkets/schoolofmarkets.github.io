@@ -70,8 +70,13 @@ page_sections:
       for 1.5 years now. This has completely changed the way I see the markets. This
       course of 5000, can change your life trust me!
   col_3:
-    headline: ''
-    content: ''
+    headline: Ranganathan, CA, TN
+    content: <img src="/uploads/2020/04/16/Asset 4.png"><br><br>For someone who was
+      a more than a little skeptical about stock trading, this course really helped
+      me.A ton of appreciation to Arvind for making sure that I am not listening to
+      a very rigid professional course but rather like listening from my friend who
+      has experience in it. There are a lots of excercise and activities for us to
+      do which makes us put some practical aspect from the learning we gained.
 - template: 1-column-text
   block: one-column-1
   headline: <a name="FAQ"><h3>FAQs</h3></a>
