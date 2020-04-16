@@ -57,7 +57,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   
-  headline: <h2>What recent students say about the course!</h2>
+  headline: What recent students say about <u><span style="color:#FFC300">the course!</span></u>
   col_1:
     content: <img src="/uploads/2020/04/15/Asset 1.png"><br>                    <br>The
       video lectures are simple to understand yet makes us learn the complexity of
