@@ -54,9 +54,9 @@ page_sections:
   image:
     image: "/uploads/2020/01/09/hope.png"
     alt_text: Knowledge
-- template: 1-column-text
-  block: testimonials
-  headline: <h2>What recent students say about the course!</h2>
+
+<h2>What recent students say about the course!</h2>
+
 - template: 3-column-text
   block: three-column-1
   col_1:
