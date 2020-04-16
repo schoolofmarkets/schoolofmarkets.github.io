@@ -32,7 +32,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong> Learn 24/7 anytime, all-time!</strong><br><spanclass="light">We
+  headline: <strong> Learn 24/7 anytime, <span style="color:#FFC300">all-time!</span></strong><br><spanclass="light">We
     bring a unique mobile based knowledge solution.</span>
   content: You don't have to sign in to any website or app, it's delivered to either
     your Google or One Drive. That simple!<br> <br> <strong>Psst... you get additional
