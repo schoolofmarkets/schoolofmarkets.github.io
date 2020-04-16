@@ -81,7 +81,7 @@ page_sections:
       do which makes us put some practical aspect from the learning we gained.
 - template: 1-column-text
   block: one-column-1
-  headline: <a name="FAQ"><h3>FAQs</h3></a>
+  headline: <a name="FAQ">FAQs</a>
   content: "<br> <strong> Do video lectures actually work?</strong><br><em>There is
     this big misconception that a live face to face session is better, but, with a
     cloud based series, people have consistently reported better understanding to
