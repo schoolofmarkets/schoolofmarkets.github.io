@@ -56,8 +56,7 @@ page_sections:
     alt_text: Knowledge
 - template: 1-column-text
   block: one-column-1
-  headline: What recent students say about the course!
-  content: ''
+  headline: <h2>What recent students say about the course!</h2>
 - template: 3-column-text
   block: three-column-1
   col_1:
