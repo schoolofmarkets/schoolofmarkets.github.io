@@ -1,10 +1,13 @@
 <section class="block block-one-column-1">
- <span class="light"> <div class="container">
+ {% if section.background_image %}
+style="background-image: url('{{ section.background_image | relative_url }}')"
+{% endif %}>
+ <div class="container">
     <div class="columns">
       <div class="column">
         <h3>{{ section.headline }}</h3>
         <p>{{ section.content }}</p>
       </div>        
     </div>
-  </div></span>
+  </div>
 </section>
