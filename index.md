@@ -59,20 +59,19 @@ page_sections:
   
   headline: What recent students say about <span style="color:#FFC300">the course!</span>
   col_1:
-    content: <img src="/uploads/2020/04/15/Asset 1.png"><br>                    <br>The
-      video lectures are simple to understand yet makes us learn the complexity of
+    headline: Nitish - Pilot, Nz
+    content: <img src="/uploads/2020/04/15/Asset 1.png"><br><br>The video lectures are simple to understand yet makes us learn the complexity of
       the markets. Came to know through Instagram. Never hesitated to contact Arvind
       to clear my doubts and he never fails to get back. I'm more than satisfied and
       would definitely recommend this!
-    headline: Nitish, Pilot, Nz
   col_2:
-    headline: Soumavo, Trader, Ind
+    headline: Soumavo - Trader, Ind
     content: <img src="/uploads/2020/04/15/Asset 3.png"><br><br>This course is a goldmine,
       to generate amazing profits! Tried and Tested. I have been a full time trader
       for 1.5 years now. This has completely changed the way I see the markets. This
       course of 5000, can change your life trust me!
   col_3:
-    headline: Ranganathan, CA, TN
+    headline: Ranganathan - CA, TN
     content: <img src="/uploads/2020/04/16/Asset 4.png"><br><br>For someone who was
       a more than a little skeptical about stock trading, this course really helped
       me.A ton of appreciation to Arvind for making sure that I am not listening to
