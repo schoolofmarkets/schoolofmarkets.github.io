@@ -55,7 +55,7 @@ page_sections:
     <strong>Master Derivatives and Enter the World of lightning trades<br><br>--Make
     consistent profits. All, starting from Absolute Basics! <br><br></strong> <em>Psst...
     you also get continued learning resources delivered to you every month, no questions
-    asked.</em><br>Here is what you'd learn from the course in a nutshell - <u><strong><span style ="color:#FFC300">TRADING</span></strong></u> as it is."
+    asked.</em>"
   media:
     image: "/uploads/2020/01/09/indicator.gif"
     alt_text: Stock ticker
